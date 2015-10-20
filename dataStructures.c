@@ -1,10 +1,6 @@
 /************************************************************************************************
  *                                      dataStructures.c
  *
- * Copyright(C) 2006.MindTree Pvt. Ltd. All rights reserved.
- *
- * Revision : V1.0
- *
  * Last Modified Date    Author         Description
  *
  * 14-Aug-2015           Deepak Birla       Initial version
